@@ -1,0 +1,16 @@
+Project 1:
+-Fat api
+Postgres
+Chatgpt
+Translation service
+Event driven Architecture
+Docker for easy deployment too
+
+App folder - for fastapi
+1. Create venv
+    - python3 -m venv .venv
+2. install dependencies - from github requirements - we need a specific version of openai
+    - pip install -r requirements.txt
+3. start writing python
+4. create templates folder inside app to hold html templates
+- create index inside this folder.
