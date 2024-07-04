@@ -1,3 +1,4 @@
+https://www.youtube.com/watch?v=rkPIftzu1pQ&list=LL&index=1&t=28s&ab_channel=freeCodeCamp.org
 Project 1:
 -Fat api
 Postgres
@@ -14,3 +15,6 @@ App folder - for fastapi
 3. start writing python
 4. create templates folder inside app to hold html templates
 - create index inside this folder.
+5. define the templates directory
+6. to start: uvicorn main:app --reload
+7. style index html page and use bootstrap
